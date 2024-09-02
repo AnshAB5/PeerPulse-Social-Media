@@ -1,4 +1,4 @@
-# Social-Media-Website-Clone
+# PeerPulse 
 
 
 ## Table of Contents
